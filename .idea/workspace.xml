@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5df01475-166a-4f88-a27b-3bd05ec649f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/twitter" beforeDir="false" afterPath="$PROJECT_DIR$/twitter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/src/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2uMeF9sxMLvKO7qU2aLMsNXgNGq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "C:/Users/Darius/IdeaProjects/Social-Media-Application",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5df01475-166a-4f88-a27b-3bd05ec649f7" name="Changes" comment="" />
+      <created>1742062766020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742062766020</updated>
+      <workItem from="1742062767348" duration="57000" />
+      <workItem from="1742062850352" duration="43000" />
+      <workItem from="1742062917251" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
