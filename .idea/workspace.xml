@@ -4,96 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf97a3fe-6714-414c-b3ea-b76c94edcb39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/.github/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/TwitterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/config/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/controller/ClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/controller/PostController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/dto/ClientAuxDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/dto/ClientDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/dto/PostAuxDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/dto/PostDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/dto/UserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/entity/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/entity/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/mapper/ClientAuxMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/mapper/ClientMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/mapper/PostAuxMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/mapper/PostMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/repository/ClientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/repository/PostRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/security/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/security/AuthService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/security/AuthTokenFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/security/JwtUtilsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/security/dto1/JwtResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/security/dto1/LoginRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/security/dto1/MessageResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/security/dto1/SignupRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/service/ClientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/service/PostService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/user/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/user/UrlMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/user/UserDetailsImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/user/UserDetailsImplService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/user/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/user/model/ERole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/user/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/com/example/twitter/user/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/org/example/springskeleton/SpringSkeletonApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/org/example/springskeleton/config/ExampleConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/org/example/springskeleton/example/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/org/example/springskeleton/example/ExampleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/org/example/springskeleton/example/ExampleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/org/example/springskeleton/example/ExampleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/org/example/springskeleton/example/dto/ExampleDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/org/example/springskeleton/example/dto/ExampleRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/org/example/springskeleton/globals/UrlMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/java/org/example/springskeleton/jobs/ExampleScheduledJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/com/example/twitter/TwitterApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/com/example/twitter/architecture/AccessFlowRulesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/com/example/twitter/architecture/CodingRulesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/com/example/twitter/architecture/ControllerRulesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/com/example/twitter/architecture/CoverageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/com/example/twitter/architecture/NamingConventionRulesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/com/example/twitter/core/SpringControllerBaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/com/example/twitter/core/SpringIntegrationBaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/com/example/twitter/core/SpringUnitBaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/com/example/twitter/example/ClientControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/com/example/twitter/example/ClientServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/org/example/springskeleton/SpringSkeletonApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/org/example/springskeleton/architecture/AccessFlowRulesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/org/example/springskeleton/architecture/CodingRulesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/org/example/springskeleton/architecture/ControllerRulesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/org/example/springskeleton/architecture/CoverageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/org/example/springskeleton/architecture/NamingConventionRulesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/org/example/springskeleton/core/SpringControllerBaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/org/example/springskeleton/core/SpringIntegrationBaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/org/example/springskeleton/core/SpringUnitBaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/org/example/springskeleton/example/ExampleControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/org/example/springskeleton/example/ExampleRepositoryIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/java/org/example/springskeleton/example/ExampleServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-Sopo23-main/src/test/resources/archunit.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/index.css" afterDir="false" />
-    </list>
+    <list default="true" id="bf97a3fe-6714-414c-b3ea-b76c94edcb39" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,20 +18,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Darius/Social-Media-Application",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Darius/Social-Media-Application&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -130,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1743425900032</updated>
       <workItem from="1743425901185" duration="587000" />
+      <workItem from="1743426509317" duration="352000" />
     </task>
     <servers />
   </component>
